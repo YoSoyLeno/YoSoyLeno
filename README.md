@@ -4,7 +4,6 @@
             <p><span>Hola, soy YoSoyLeno.</span> Un niño de 12 años Programador, creo Paginas WEBS y Bots de Discord a muy buen Precio pero Actualmente los creo GRATIS Durante 1 Año osea yo te creo cosas que tu Quieras Durante 1 AÑO y despues de 1 AÑO si te han gustado mis Servicios me compraras Servicios, pero por ser Cliente GRATIS Durante tanto Tiempo te dare un DESCUENTO de el 70%!! Para mas Informacion Contactame mi Discord esta abajo del todo o en el Principio Nos Vemos!</p>
 
             <div class="fila">
-                <!-- datos personales -->
                 <div class="col">
                     <h3>Datos Personales</h3>
                     <ul>
@@ -22,8 +21,6 @@
                         </li>
                     </ul>
                 </div>
-
-                <!-- intereses -->
                 <div class="col">
                     <h3>Intereses</h3>
                     <div class="contenedor-intereses">
