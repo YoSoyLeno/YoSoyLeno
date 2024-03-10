@@ -1,2 +1,1 @@
-> .[!NOTE].
-> Te Recomiendo Leer Todo mi Informacion
+<strong>Hola</strong>
