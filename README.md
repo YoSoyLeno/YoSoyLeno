@@ -8,8 +8,7 @@
 
 <h1>💙 Mis Redes 💚</h1>
 
-<h3>[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/BwqdVWCtCk) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/YoSoyLeno_) </h3>
-<h3>💚 | Twitter: https://twitter.com/YoSoyLeno_</h3>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/BwqdVWCtCk) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/YoSoyLeno_)
 
 <h1>💖 GRACIAS POR LEER HASTA AQUÍ 💖</h1>
 
