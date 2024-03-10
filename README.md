@@ -26,4 +26,6 @@
 
 <h1>💖 GRACIAS POR LEER HASTA AQUÍ 💖</h1>
 
-<p>Oye tu, si tu, Por leer hasta aqui te tengo una Sorpresa 🤯. Y seria que como mencione anteriormente que vendo Servicios de Programacion a Precios Bajos y Esenciales Por Leer Hasta Aqui te los Servicios GRATIS durante 1 AÑO. Para Contactarme Ve a Mi Discord Que Esta Aqui: </p>
+<p>Oye tu, si tu, Por leer hasta aqui te tengo una Sorpresa 🤯. Y seria que como mencione anteriormente que vendo Servicios de Programacion a Precios Bajos y Esenciales Por Leer Hasta Aqui te los Servicios GRATIS durante 1 AÑO. Para Contactarme Ve a Mi Discord Que Esta Aqui: https://twitter.com/YoSoyLeno_</p>
+
+<p>💖 ¡ADÍOS! 💖</p>
